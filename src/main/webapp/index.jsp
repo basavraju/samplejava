@@ -10,6 +10,7 @@
         <h1>Code Commited:: GitHub -> Jenkins -> Maven -> Nexus</h1>
         <h1>Build is Available:: Jenkins -> Deploy -> Nexus -> Tomcat9 </h1>
         <h1> developer pushed new code </h1>
+        <h1> modified now to check </h1>
              <!--GET all the <a href="${pageContext.request.contextPath}/resources/persons"/>persons</a>.-->
     </body>
 </html>
